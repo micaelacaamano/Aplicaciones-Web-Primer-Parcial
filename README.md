@@ -35,16 +35,6 @@ El sitio está compuesto por:
 
 ---
 
-## 📁 Estructura del proyecto
-
-📁 Aplicaciones_Web
-├── index.html
-├── biblioteca.html
-├── style.css
-└── 📁 Imagenes
-
----
-
 ## ✍️ Nota
 
 🔧 Se continuará mejorando como práctica personal y portfolio, forma parte de mi proceso de aprendizaje.  
